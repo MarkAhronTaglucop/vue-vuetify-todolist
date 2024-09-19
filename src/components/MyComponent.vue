@@ -58,12 +58,12 @@ export default {
         },
         {
           id: 2,
-          title: "Apply what I've read",
+          title: "Workout",
           done: false,
         },
         {
           id: 3,
-          title: "Clean my abode",
+          title: "Declutter",
           done: false,
         },
       ],
